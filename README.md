@@ -12,4 +12,12 @@ make it look good
 make the UI looks good in mobile and make the website responsive !!
 
 
-#[LIVE](https://nepallocation.herokuapp.com)
+## [LIVE](https://nepallocation.herokuapp.com)
+
+
+# How can you start contributing 
+
+- clone the repo
+- run npm install
+- npm start
+- create the .env and add port variable ( optional )
