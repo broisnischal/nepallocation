@@ -21,3 +21,6 @@ make the UI looks good in mobile and make the website responsive !!
 - run npm install
 - npm start
 - create the .env and add port variable ( optional )
+
+
+## You are not allowed to push in main branch do create another like your name branch and start commiting in there !!
