@@ -1,0 +1,172 @@
+{
+	"province1": [
+		{
+			"districtName": "bhojpur",
+			"province": "Province no.1",
+			"acode": "029",
+			"headquarter": "Bhojpur",
+			"popu": "182459",
+			"position": {
+				"lat": "27.1780",
+				"long": "87.0524",
+				"area": "1507"
+			}
+		},
+		{
+			"districtName": "dhankuta",
+			"province": "Province no.1",
+			"acode": "026",
+			"headquarter": "Dhankuta",
+			"popu": "163412",
+			"position": {
+				"lat": "26.9835",
+				"long": "87.3215",
+				"area": "892"
+			}
+		},
+		{
+			"districtName": "illam",
+			"province": "Province no.1",
+			"acode": "027",
+			"headquarter": "Illam",
+			"popu": "290254",
+			"position": {
+				"lat": "26.9225",
+				"long": "87.8942",
+				"area": "1703"
+			}
+		},
+		{
+			"districtName": "jhapa",
+			"province": "Province no.1",
+			"acode": "023",
+			"headquarter": "Bhadrapur",
+			"popu": "812650",
+			"position": {
+				"lat": "26.5455",
+				"long": "87.8942",
+				"area": "1606"
+			}
+		},
+		{
+			"districtName": "khotang",
+			"province": "Province no.1",
+			"acode": "036",
+			"headquarter": "Diktel",
+			"popu": "206312",
+			"position": {
+				"lat": "27.1838",
+				"long": "86.7819",
+				"area": "1591"
+			}
+		},
+		{
+			"districtName": "morang",
+			"province": "Province no.1",
+			"acode": "021",
+			"headquarter": "Biratnagar",
+			"popu": "965370",
+			"position": {
+				"lat": "26.6799",
+				"long": "87.4604",
+				"area": "1855"
+			}
+		},
+		{
+			"districtName": "okhaldhunga",
+			"province": "Province no.1",
+			"acode": "037",
+			"headquarter": "Siddhicharan",
+			"popu": "147984",
+			"position": {
+				"lat": "27.3619",
+				"long": "86.3782",
+				"area": "1074"
+			}
+		},
+		{
+			"districtName": "panchthar",
+			"province": "Province no.1",
+			"acode": "024",
+			"headquarter": "Phidim",
+			"popu": "191817",
+			"position": {
+				"lat": "27.1096",
+				"long": "87.8157",
+				"area": "1241"
+			}
+		},
+		{
+			"districtName": "sankhuwasabha",
+			"province": "Province no.1",
+			"acode": "029",
+			"headquarter": "Khandbari",
+			"popu": "158742",
+			"position": {
+				"lat": "27.6174",
+				"long": "87.3016",
+				"area": "3480"
+			}
+		},
+		{
+			"districtName": "solukhumbu",
+			"province": "Province no.1",
+			"acode": "038",
+			"headquarter": "Salleri",
+			"popu": "105886",
+			"position": {
+				"lat": "27.6992",
+				"long": "86.7416",
+				"area": "3312"
+			}
+		},
+		{
+			"districtName": "sunsari",
+			"province": "Province no.1",
+			"acode": "025",
+			"headquarter": "Inaruwa",
+			"popu": "753328",
+			"position": {
+				"lat": "26.6276",
+				"long": "87.1822",
+				"area": "1257"
+			}
+		},
+		{
+			"districtName": "taplejung",
+			"province": "Province no.1",
+			"acode": "024",
+			"headquarter": "Taplejung",
+			"popu": "127461",
+			"position": {
+				"lat": "27.6257",
+				"long": "87.7763",
+				"area": "3646"
+			}
+		},
+		{
+			"districtName": "terhathum",
+			"province": "Province no.1",
+			"acode": "026",
+			"headquarter": "Myanglung",
+			"popu": "101577",
+			"position": {
+				"lat": "27.1998",
+				"long": "87.5791",
+				"area": "679"
+			}
+		},
+		{
+			"districtName": "udayapur",
+			"province": "Province no.1",
+			"acode": "035",
+			"headquarter": "Gaighat",
+			"popu": "317532",
+			"position": {
+				"lat": "26.8518",
+				"long": "86.6611",
+				"area": "2063"
+			}
+		}
+	]
+}

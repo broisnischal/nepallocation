@@ -1,0 +1,136 @@
+{
+	"province4": [
+		{
+			"districtName": "baglung",
+			"province": "Gandaki Province",
+			"acode": "068",
+			"headquarter": "Baglung",
+			"popu": "260107",
+			"position": {
+				"lat": "28.2774",
+				"long": "83.5816",
+				"area": "1784"
+			}
+		},
+		{
+			"districtName": "gorkha",
+			"province": "Gandaki Province",
+			"acode": "064",
+			"headquarter": "Gorkha",
+			"popu": "272169",
+			"position": {
+				"lat": "28.2964",
+				"long": "84.8568",
+				"area": "3610"
+			}
+		},
+		{
+			"districtName": "kaski",
+			"province": "Gandaki Province",
+			"acode": "061",
+			"headquarter": "Pokhara",
+			"popu": "264991",
+			"position": {
+				"lat": "28.2096",
+				"long": "83.9856",
+				"area": "2017"
+			}
+		},
+		{
+			"districtName": "lamjung",
+			"province": "Gandaki Province",
+			"acode": "066",
+			"headquarter": "Besisahar",
+			"popu": "201118",
+			"position": {
+				"lat": "28.2765",
+				"long": "84.3542",
+				"area": "1692"
+			}
+		},
+		{
+			"districtName": "manang",
+			"province": "Gandaki Province",
+			"acode": "066",
+			"headquarter": "Chame",
+			"popu": "6527",
+			"position": {
+				"lat": "28.6667",
+				"long": "84.0167",
+				"area": "2246"
+			}
+		},
+		{
+			"districtName": "mustang",
+			"province": "Gandaki Province",
+			"acode": "069",
+			"headquarter": "Jomsom",
+			"popu": "13452",
+			"position": {
+				"lat": "28.9985",
+				"long": "83.8473",
+				"area": "3573"
+			}
+		},
+		{
+			"districtName": "myagdi",
+			"province": "Gandaki Province",
+			"acode": "069",
+			"headquarter": "Beni",
+			"popu": "113641",
+			"position": {
+				"lat": "28.6029",
+				"long": "83.3362",
+				"area": "2297"
+			}
+		},
+		{
+			"districtName": "nawalpur",
+			"province": "Gandaki Province",
+			"acode": "078",
+			"headquarter": "Kawasoti",
+			"popu": "310864",
+			"position": {
+				"lat": "27.8149",
+				"long": "85.6281",
+				"area": "1043.1"
+			}
+		},
+		{
+			"districtName": "parbat",
+			"province": "Gandaki Province",
+			"acode": "067",
+			"headquarter": "Kusma",
+			"popu": "146590",
+			"position": {
+				"lat": "28.2246",
+				"long": "83.6987",
+				"area": "494"
+			}
+		},
+		{
+			"districtName": "syangja",
+			"province": "Gandaki Province",
+			"acode": "063",
+			"headquarter": "Putalibazar",
+			"popu": "289148",
+			"position": {
+				"lat": "28.0197",
+				"long": "83.8049",
+				"area": "1164"
+			}
+		},
+		{
+			"districtName": "tanahun",
+			"province": "Gandaki Province",
+			"acode": "065",
+			"headquarter": "Damauli",
+			"popu": "323288",
+			"position": {
+				"lat": "27.9447",
+				"long": "84.2279",
+				"area": "1546"
+			}
+		}
+	]
+}

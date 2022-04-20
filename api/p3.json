@@ -1,0 +1,160 @@
+{
+	"province3": [
+		{
+			"districtName": "kathmandu",
+			"province": "Bagmati Province",
+			"acode": "01",
+			"headquarter": "Kathmandu",
+			"popu": "1442300",
+			"position": {
+				"lat": "27.7172",
+				"long": "85.3240",
+				"area": "49.45"
+			}
+		},
+		{
+			"districtName": "sindhuli",
+			"province": "Bagmati Province",
+			"acode": "047",
+			"headquarter": "Kamalamai",
+			"popu": "296192",
+			"position": {
+				"lat": "27.2569",
+				"long": "85.9713",
+				"area": "2491"
+			}
+		},
+		{
+			"districtName": "ramechhap",
+			"province": "Bagmati Province",
+			"acode": "048",
+			"headquarter": "Manthali",
+			"popu": "202646",
+			"position": {
+				"lat": "27.3193",
+				"long": "86.1039",
+				"area": "1546"
+			}
+		},
+		{
+			"districtName": "dolakha",
+			"province": "Bagmati Province",
+			"acode": "049",
+			"headquarter": "Bhimeshwar",
+			"popu": "186557",
+			"position": {
+				"lat": "27.7784",
+				"long": "86.1752",
+				"area": "2191"
+			}
+		},
+		{
+			"districtName": "bhaktapur",
+			"province": "Bagmati Province",
+			"acode": "01",
+			"headquarter": "Bhaktapur",
+			"popu": "81728",
+			"position": {
+				"lat": "27.6710",
+				"long": "85.4298",
+				"area": "119"
+			}
+		},
+		{
+			"districtName": "dhading",
+			"province": "Bagmati Province",
+			"acode": "010",
+			"headquarter": "Nilkantha",
+			"popu": "336067",
+			"position": {
+				"lat": "27.9711",
+				"long": "85.8985",
+				"area": "1926"
+			}
+		},
+		{
+			"districtName": "kavrepalanchok",
+			"province": "Bagmati Province",
+			"acode": "011",
+			"headquarter": "Dhulikhel",
+			"popu": "381937",
+			"position": {
+				"lat": "27.5285",
+				"long": "85.6435",
+				"area": "1396"
+			}
+		},
+		{
+			"districtName": "lalitpur",
+			"province": "Bagmati Province",
+			"acode": "01",
+			"headquarter": "Lalitpur",
+			"popu": "513200 ",
+			"position": {
+				"lat": "27.6588",
+				"long": "85.3247",
+				"area": "385"
+			}
+		},
+		{
+			"districtName": "nuwakot",
+			"province": "Bagmati Province",
+			"acode": "010",
+			"headquarter": "Bidur",
+			"popu": "277471",
+			"position": {
+				"lat": "27.8895",
+				"long": "85.2308",
+				"area": "1121"
+			}
+		},
+		{
+			"districtName": "rasuwa",
+			"province": "Bagmati Province",
+			"acode": "010",
+			"headquarter": "Dhunche",
+			"popu": "43300",
+			"position": {
+				"lat": "27.1755",
+				"long": "85.3963",
+				"area": "1544"
+			}
+		},
+		{
+			"districtName": "sindhupalchok",
+			"province": "Bagmati Province",
+			"acode": "011",
+			"headquarter": "Chautara",
+			"popu": "287818",
+			"position": {
+				"lat": "27.9512",
+				"long": "85.6846",
+				"area": "2542"
+			}
+		},
+		{
+			"districtName": "makwanpur",
+			"province": "Bagmati Province",
+			"acode": "057",
+			"headquarter": "Hetauda",
+			"popu": "420477",
+			"position": {
+				"lat": "27.5546",
+				"long": "85.0233",
+				"area": "2246"
+			}
+		},
+		{
+			"districtName": "chitwan",
+			"province": "Bagmati Province",
+			"acode": "056",
+			"headquarter": "Bharatpur",
+			"popu": "579984",
+			"position": {
+				"lat": "27.5291",
+				"long": "84.3542",
+				"area": "2238.39"
+			}
+		}
+	]
+}

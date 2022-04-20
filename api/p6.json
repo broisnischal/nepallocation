@@ -1,0 +1,124 @@
+{
+	"province6": [
+		{
+			"districtName": "rukum_W",
+			"province": "Karnali Province",
+			"acode": "088",
+			"headquarter": "Musikot",
+			"popu": "154272",
+			"position": {
+				"lat": "28.6947",
+				"long": "82.4319",
+				"area": "1213.49"
+			}
+		},
+		{
+			"districtName": "salyan",
+			"province": "Karnali Province",
+			"acode": "088",
+			"headquarter": "Salyan",
+			"popu": "241716",
+			"position": {
+				"lat": "28.4014",
+				"long": "82.1714",
+				"area": "1462"
+			}
+		},
+		{
+			"districtName": "dolpa",
+			"province": "Karnali Province",
+			"acode": "087",
+			"headquarter": "Dunai",
+			"popu": "36700",
+			"position": {
+				"lat": "29.0539",
+				"long": "83.0791",
+				"area": "7889"
+			}
+		},
+		{
+			"districtName": "humla",
+			"province": "Karnali Province",
+			"acode": "087",
+			"headquarter": "Simikot",
+			"popu": "50858",
+			"position": {
+				"lat": "30.0052",
+				"long": "81.9535",
+				"area": "5655"
+			}
+		},
+		{
+			"districtName": "jumla",
+			"province": "Karnali Province",
+			"acode": "087",
+			"headquarter": "Chandannath",
+			"popu": "108921",
+			"position": {
+				"lat": "29.2522",
+				"long": "82.1659",
+				"area": "2531"
+			}
+		},
+		{
+			"districtName": "kalikot",
+			"province": "Karnali Province",
+			"acode": "087",
+			"headquarter": "Manma",
+			"popu": "136948",
+			"position": {
+				"lat": "29.2089",
+				"long": "81.7349",
+				"area": "1741"
+			}
+		},
+		{
+			"districtName": "mugu",
+			"province": "Karnali Province",
+			"acode": "087",
+			"headquarter": "Gamgadhi",
+			"popu": "898",
+			"position": {
+				"lat": "29.8086",
+				"long": "82.5186",
+				"area": "3535"
+			}
+		},
+		{
+			"districtName": "surkhet",
+			"province": "Karnali Province",
+			"acode": "083",
+			"headquarter": "Birendranagar",
+			"popu": "350804",
+			"position": {
+				"lat": "28.5175",
+				"long": "81.7787",
+				"area": "2451"
+			}
+		},
+		{
+			"districtName": "dailekh",
+			"province": "Karnali Province",
+			"acode": "089",
+			"headquarter": "Narayan",
+			"popu": "260855",
+			"position": {
+				"lat": "28.9262",
+				"long": "81.6473",
+				"area": "1502"
+			}
+		},
+		{
+			"districtName": "jajarkot",
+			"province": "Karnali Province",
+			"acode": "089",
+			"headquarter": "Khalanga",
+			"popu": "8140",
+			"position": {
+				"lat": "28.7396",
+				"long": "82.2040",
+				"area": "2230"
+			}
+		}
+	]
+}

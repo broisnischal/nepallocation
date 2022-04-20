@@ -1,0 +1,112 @@
+{
+	"province7": [
+		{
+			"districtName": "kailali",
+			"province": "Sudurpashchim Province",
+			"acode": "091",
+			"headquarter": "Dhangadhi",
+			"popu": "775709",
+			"position": {
+				"lat": "28.8314",
+				"long": "80.8987",
+				"area": "3235"
+			}
+		},
+		{
+			"districtName": "achham",
+			"province": "Sudurpashchim Province",
+			"acode": "092",
+			"headquarter": "Mangalsen",
+			"popu": "257477",
+			"position": {
+				"lat": "29.0396",
+				"long": "81.2519",
+				"area": "1680"
+			}
+		},
+		{
+			"districtName": "doti",
+			"province": "Sudurpashchim Province",
+			"acode": "094",
+			"headquarter": "Dipayal Silgadhi",
+			"popu": "211746",
+			"position": {
+				"lat": "29.2006",
+				"long": "80.8987",
+				"area": "2025"
+			}
+		},
+		{
+			"districtName": "bajhang",
+			"province": "Sudurpashchim Province",
+			"acode": "092",
+			"headquarter": "Jayaprithvi",
+			"popu": "195159",
+			"position": {
+				"lat": "29.7767",
+				"long": "81.2519",
+				"area": "3422"
+			}
+		},
+		{
+			"districtName": "bajura",
+			"province": "Sudurpashchim Province",
+			"acode": "092",
+			"headquarter": "Martadi",
+			"popu": "134912",
+			"position": {
+				"lat": "29.4201",
+				"long": "81.4279",
+				"area": "2188"
+			}
+		},
+		{
+			"districtName": "kanchanpur",
+			"province": "Sudurpashchim Province",
+			"acode": "099",
+			"headquarter": "Bhimdatta",
+			"popu": "451248",
+			"position": {
+				"lat": "28.8372",
+				"long": "80.3213",
+				"area": "1610"
+			}
+		},
+		{
+			"districtName": "dadeldhura",
+			"province": "Sudurpashchim Province",
+			"acode": "096",
+			"headquarter": "Amargadhi",
+			"popu": "152157",
+			"position": {
+				"lat": "29.2188",
+				"long": "80.4994",
+				"area": "1538"
+			}
+		},
+		{
+			"districtName": "baitadi",
+			"province": "Sudurpashchim Province",
+			"acode": "095",
+			"headquarter": "Dasharathchand",
+			"popu": "5352",
+			"position": {
+				"lat": "29.5186",
+				"long": "80.4688",
+				"area": "1519"
+			}
+		},
+		{
+			"districtName": "darchula",
+			"province": "Sudurpashchim Province",
+			"acode": "093",
+			"headquarter": "Darchula",
+			"popu": "133274",
+			"position": {
+				"lat": "29.9363",
+				"long": "80.8987",
+				"area": "2322"
+			}
+		}
+	]
+}

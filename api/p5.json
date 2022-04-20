@@ -1,0 +1,148 @@
+{
+	"province5": [
+		{
+			"districtName": "kapilvastu",
+			"province": "Lumbini Province",
+			"acode": "076",
+			"headquarter": "Taulihawa",
+			"popu": "76394",
+			"position": {
+				"lat": "27.5518",
+				"long": "83.0469",
+				"area": "1738"
+			}
+		},
+		{
+			"districtName": "parsa",
+			"province": "Lumbini Province",
+			"acode": "051",
+			"headquarter": "Ramgram",
+			"popu": "601017",
+			"position": {
+				"lat": "27.2190",
+				"long": "84.8151",
+				"area": "634.88"
+			}
+		},
+		{
+			"districtName": "rupandehi",
+			"province": "Lumbini Province",
+			"acode": "071",
+			"headquarter": "Siddharthanagar",
+			"popu": "982851",
+			"position": {
+				"lat": "27.5330",
+				"long": "83.3789",
+				"area": "1360"
+			}
+		},
+		{
+			"districtName": "arghakhanchi",
+			"province": "Lumbini Province",
+			"acode": "077",
+			"headquarter": "Sandhikharka",
+			"popu": "197632",
+			"position": {
+				"lat": "27.8940",
+				"long": "83.1220",
+				"area": "1193"
+			}
+		},
+		{
+			"districtName": "gulmi",
+			"province": "Lumbini Province",
+			"acode": "079",
+			"headquarter": "Tamghas",
+			"popu": "280160",
+			"position": {
+				"lat": "28.0889",
+				"long": "83.2934",
+				"area": "1149"
+			}
+		},
+		{
+			"districtName": "palpa",
+			"province": "Lumbini Province",
+			"acode": "075",
+			"headquarter": "Tansen",
+			"popu": "261180",
+			"position": {
+				"lat": "27.8253",
+				"long": "83.6348",
+				"area": "1373"
+			}
+		},
+		{
+			"districtName": "dang",
+			"province": "Lumbini Province",
+			"acode": "082",
+			"headquarter": "Ghorahi",
+			"popu": "548141",
+			"position": {
+				"lat": "28.0000",
+				"long": "82.4753",
+				"area": "2955"
+			}
+		},
+		{
+			"districtName": "pyuthan",
+			"province": "Lumbini Province",
+			"acode": "086",
+			"headquarter": "Pyuthan",
+			"popu": "38449",
+			"position": {
+				"lat": "28.1017",
+				"long": "82.8533",
+				"area": "1309"
+			}
+		},
+		{
+			"districtName": "rolpa",
+			"province": "Lumbini Province",
+			"acode": "086",
+			"headquarter": "Liwang",
+			"popu": "224506",
+			"position": {
+				"lat": "28.3816",
+				"long": "82.6483",
+				"area": "1879"
+			}
+		},
+		{
+			"districtName": "rukum_E",
+			"province": "Lumbini Province",
+			"acode": "088",
+			"headquarter": "Rukumkot",
+			"popu": "53018",
+			"position": {
+				"lat": "28.6947",
+				"long": "82.4319",
+				"area": "1161.13"
+			}
+		},
+		{
+			"districtName": "banke",
+			"province": "Lumbini Province",
+			"acode": "081",
+			"headquarter": "Nepalganj",
+			"popu": "491313",
+			"position": {
+				"lat": "28.1022",
+				"long": "81.8224",
+				"area": "2337"
+			}
+		},
+		{
+			"districtName": "bardiya",
+			"province": "Lumbini Province",
+			"acode": "084",
+			"headquarter": "Gulariya",
+			"popu": "426576",
+			"position": {
+				"lat": "28.3102",
+				"long": "81.4279",
+				"area": "2025"
+			}
+		}
+	]
+}

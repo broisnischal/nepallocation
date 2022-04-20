@@ -1,0 +1,100 @@
+{
+	"province2": [
+		{
+			"districtName": "saptari",
+			"province": "Province no.2",
+			"acode": "031",
+			"headquarter": "Rajbiraj",
+			"popu": "735000",
+			"position": {
+				"lat": "26.6191",
+				"long": "86.7819",
+				"area": "1363"
+			}
+		},
+		{
+			"districtName": "siraha",
+			"province": "Province no.2",
+			"acode": "033",
+			"headquarter": "Siraha",
+			"popu": "637328",
+			"position": {
+				"lat": "26.6397",
+				"long": "86.1853",
+				"area": "1188"
+			}
+		},
+		{
+			"districtName": "dhanusa",
+			"province": "Province no.2",
+			"acode": "041",
+			"headquarter": "Janakpur",
+			"popu": "754777",
+			"position": {
+				"lat": "26.8350",
+				"long": "86.0122",
+				"area": "1180"
+			}
+		},
+		{
+			"districtName": "mahottari",
+			"province": "Province no.2",
+			"acode": "044",
+			"headquarter": "Jaleshwar",
+			"popu": "627580",
+			"position": {
+				"lat": "26.8762",
+				"long": "85.8077",
+				"area": "1002"
+			}
+		},
+		{
+			"districtName": "sarlahi",
+			"province": "Province no.2",
+			"acode": "046",
+			"headquarter": "Malangwa",
+			"popu": "769729",
+			"position": {
+				"lat": "26.9627",
+				"long": "85.5612",
+				"area": "1259"
+			}
+		},
+		{
+			"districtName": "bara",
+			"province": "Province no.2",
+			"acode": "053",
+			"headquarter": "Kalaiya",
+			"popu": "687708",
+			"position": {
+				"lat": "27.1341",
+				"long": "85.0649",
+				"area": "1190"
+			}
+		},
+		{
+			"districtName": "parsa",
+			"province": "Province no.2",
+			"acode": "051",
+			"headquarter": "Birganj",
+			"popu": "601017",
+			"position": {
+				"lat": "27.2190",
+				"long": "84.8151",
+				"area": "1353"
+			}
+		},
+		{
+			"districtName": "rautahat",
+			"province": "Province no.2",
+			"acode": "055",
+			"headquarter": "Gaur",
+			"popu": "686723",
+			"position": {
+				"lat": "26.9547",
+				"long": "85.3136",
+				"area": "1126"
+			}
+		}
+	]
+}
