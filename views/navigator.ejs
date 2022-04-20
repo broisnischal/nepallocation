@@ -1,0 +1,30 @@
+<%- include('./inc/header'); -%>
+
+<div class="docs">
+	<h2>Latitude and Longitude</h2>
+
+	<%- include('./inc/nav'); -%>
+
+	<div class="codes">
+		<code>
+			<pre>
+fetch('https://nepallocation.herokuapp.com/api/navigator/27.7784/86.1752')
+    .then(res => res.json())
+    .then(json => {
+        console.log(json);
+})
+            </pre
+			>
+		</code>
+		<code
+			>using Latitude and Longitude.<br />
+			This is in beta testing we don't recommend<br />
+			you calling api using this Navigator for now.
+		</code>
+	</div>
+	<div class="live">
+		<a href="api/navigator/27.7784/86.1752" target="_blank">Live</a>
+	</div>
+</div>
+
+<%- include('./inc/footer'); -%>

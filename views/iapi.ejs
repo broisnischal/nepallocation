@@ -1,0 +1,26 @@
+<%- include('./inc/header'); -%>
+
+<div class="docs">
+	<h2>Nepal Data</h2>
+
+	<%- include('./inc/nav'); -%>
+
+	<div class="codes">
+		<code>
+			<pre>
+fetch('https://nepallocation.herokuapp.com/api')
+    .then(res => res.json())
+    .then(json => {
+        console.log(json);
+})
+            </pre
+			>
+		</code>
+		<code>Get all data of nepal. </code>
+	</div>
+	<div class="live">
+		<a href="api/" target="_blank">Live</a>
+	</div>
+</div>
+
+<%- include('./inc/footer'); -%>

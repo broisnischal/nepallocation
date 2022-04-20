@@ -1,0 +1,26 @@
+<%- include('./inc/header'); -%>
+
+<div class="docs">
+	<h2>Province Data</h2>
+
+	<%- include('./inc/nav'); -%>
+
+	<div class="codes">
+		<code>
+			<pre>
+fetch('https://nepallocation.herokuapp.com/api/p/1')
+    .then(res => res.json())
+    .then(json => {
+        console.log(json);
+})
+            </pre
+			>
+		</code>
+		<code> p/1</code> is the province id and it is 1 in this case.
+	</div>
+	<div class="live">
+		<a href="api/p/3" target="_blank">Live</a>
+	</div>
+</div>
+
+<%- include('./inc/footer'); -%>

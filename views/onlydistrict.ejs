@@ -1,0 +1,31 @@
+<%- include('./inc/header'); -%>
+
+<div class="docs">
+	<h2>All District</h2>
+
+	<%- include('./inc/nav'); -%>
+
+	<div class="codes">
+		<code>
+			<pre>
+fetch('https://nepallocation.herokuapp.com/capi')
+    .then(res => res.json())
+    .then(json => {
+        console.log(json);
+})
+            </pre
+			>
+		</code>
+		<code>Only gets all district data ! </code>
+		<div>
+			Including All 77 districts data of Nepal
+		</div>
+	</div>
+
+	<div class="live">
+		<a href="/capi" target="_blank">Live</a>
+	</div>
+</div>
+
+
+<%- include('./inc/footer'); -%>

@@ -1,0 +1,24 @@
+<%- include('./inc/header'); -%>
+
+<div class="docs">
+	<h2>District Data</h2>
+	<%- include('./inc/nav'); -%>
+	<div class="codes">
+		<code>
+			<pre>
+fetch('https://nepallocation.herokuapp.com/api/district/dolakha')
+    .then(res => res.json())
+    .then(json => {
+        console.log(json);
+})
+            </pre
+			>
+		</code>
+		<code>district/dolakha</code> where dolakha is input field for district.
+	</div>
+	<div class="live">
+		<a href="api/district/dolakha" target="_blank">Live</a>
+	</div>
+</div>
+
+<%- include('./inc/footer'); -%>

@@ -1,0 +1,53 @@
+<%- include('./inc/header'); -%>
+
+<div class="docs">
+	<h2>How can you implement our API ?</h2>
+
+	<%- include('./inc/nav'); -%>
+	<div class="codes">
+		<div class="txt">
+			<br>
+			Very Simple API that you can use to get the location data of any place in Nepal.<br>
+		</div>
+		<code>
+			<pre>
+fetch('https://nepallocation.herokuapp.com/api')
+.then(res => res.json())
+.then(json => {
+	console.log(json);
+})
+			</pre
+			>
+
+			Here is what you will be getting from API response !
+			<pre>
+DEMO
+	{
+	  "districtName": "dolakha",
+	  "province": "Bagmati Province",
+	  "acode": "049",
+	  "headquarter": "Bhimeshwar",
+	  "popu": "186557",
+	  "position": {
+	     "lat": "27.7784",
+	     "long": "86.1752",
+	     "area": "2191"
+	  }
+	},
+		</pre
+			>
+		</code>
+	</div>
+	Aim to Provide correct data ! But now only Population is not accurate since<br />
+	this data was updated before census we will be updating as fast as possible.<br/>
+	<br/>
+	You can contact us at <i><code>neesnotfound@nees.tech</code></i>,  if you want to add and update data.<br/>
+	<br />
+	<br />
+	<%- include('./ourcontributors'); -%>
+	<div>
+		<a href="https://nees-web-services.business.site" target="_blank">Contact to contribute</a>
+	</div>
+</div>
+
+<%- include('./inc/footer'); -%>
