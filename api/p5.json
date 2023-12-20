@@ -13,18 +13,6 @@
 			}
 		},
 		{
-			"districtName": "parsa",
-			"province": "Lumbini Province",
-			"acode": "051",
-			"headquarter": "Ramgram",
-			"popu": "601017",
-			"position": {
-				"lat": "27.2190",
-				"long": "84.8151",
-				"area": "634.88"
-			}
-		},
-		{
 			"districtName": "rupandehi",
 			"province": "Lumbini Province",
 			"acode": "071",
